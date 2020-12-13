@@ -895,7 +895,7 @@ paths:
       tags:
       - Operator-Specific Data Container (Document)
     patch:
-      operationId: AmfContext3gpp
+      operationId: ModifyOperSpecData
       parameters:
       - description: UE id
         in: path
